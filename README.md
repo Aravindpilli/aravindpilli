@@ -44,16 +44,6 @@ A Web 3.0 application revolutionizing content creation with AI and blockchain. [
 ### 5. Personalized Cancer Care Treatment Using AI
 An AI-powered system for personalized cancer treatment plans. [View Project](https://demux-404hacks.vercel.app/)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KKBAE143&show_icons=true&theme=aura" alt="Pilli Aravind's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKBAE143&theme=algolia" alt="Pilli Aravind's GitHub Profile Summary" />
-</p>
-
 ## 🎨 Fun Zone
 
 <p align="center">
